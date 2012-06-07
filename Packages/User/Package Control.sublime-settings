@@ -1,0 +1,9 @@
+{
+	"auto_upgrade_last_run": 1339050857,
+	"installed_packages":
+	[
+		"BeautifyRuby",
+		"Package Control",
+		"SublimeREPL"
+	]
+}

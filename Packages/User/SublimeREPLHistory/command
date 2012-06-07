@@ -1,0 +1,11 @@
+-b(main):001:0> require './my_game.rb'
+-c
+-ls
+-require
+-require 'my_game'
+-d
+-require './my_game.rb'
+-cwd
+-pwd
+-c
+-Dir.pwd
