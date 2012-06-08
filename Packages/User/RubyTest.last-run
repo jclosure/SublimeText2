@@ -1,0 +1,4 @@
+{
+	"last_test_file": "seeker_spec.rb",
+	"last_test_run": "cd /Users/jclosure/projects/seeker/ && bundle exec rspec --format progress spec/seeker_spec.rb"
+}
